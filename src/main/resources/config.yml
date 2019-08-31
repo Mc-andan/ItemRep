@@ -1,0 +1,25 @@
+Item:
+  Slot: 17
+  ID: 166
+  name: "当前方块已被锁定"
+  Lore:
+    - "描述"
+    - "11111"
+    - "11111"
+    - "11111"
+List:
+  "1234":
+    id: 45
+    data: 1
+    time: -1
+    message:
+      enable: "你已激活2倍重力系统，永久生效"
+      disable: "已结束"
+  "3210":
+    id: 54
+    data: 2
+    time: 10
+    forever: false
+    message:
+      enable: "你已激活10倍重力系统，%s%秒后自动关闭"
+      disable: "已结束"

@@ -1,0 +1,7 @@
+name: ItemRep
+version: ${project.version}
+main: com.andan.itemrep.ItemRep.ItemRep
+
+
+commands:
+  irep:
